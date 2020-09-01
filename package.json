@@ -1,5 +1,5 @@
 {
-  "name": "sb-passport-oauth2",
+  "name": "passport-oauth2",
   "version": "1.0.0",
   "description": "Custom OAuth 2.0 authentication strategy for Sunbird.",
   "keywords": [
