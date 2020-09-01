@@ -1,7 +1,7 @@
 {
-  "name": "passport-oauth2",
-  "version": "1.5.0",
-  "description": "OAuth 2.0 authentication strategy for Passport.",
+  "name": "sb-passport-oauth2",
+  "version": "1.0.0",
+  "description": "Custom OAuth 2.0 authentication strategy for Sunbird.",
   "keywords": [
     "passport",
     "auth",
@@ -12,17 +12,9 @@
     "oauth",
     "oauth2"
   ],
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
-  },
-  "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth2/issues"
+    "url": "git://github.com/vrayulu/sb-passport-oauth2.git"
   },
   "license": "MIT",
   "licenses": [
